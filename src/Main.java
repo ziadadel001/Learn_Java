@@ -14,9 +14,9 @@ public class Main {
                 String[] args -> An array of Strings that allows passing arguments from the command line
      */
     public static void main(String[] args){
-
-        // Here we are calling a function (run) inside another class (Prints) from within the main method
-//        Prints.run();
-        Variables.run();
+    // Here we are calling a function (run) inside another class (Prints) from within the main method
+        // Prints.run();       // print examples
+        // Variables.run();    // variables examples
+        Conditions.run();   // conditions examples
     }
 }
