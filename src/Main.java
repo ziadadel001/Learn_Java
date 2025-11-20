@@ -17,6 +17,8 @@ public class Main {
     // Here we are calling a function (run) inside another class (Prints) from within the main method
         // Prints.run();       // print examples
         // Variables.run();    // variables examples
-        Conditions.run();   // conditions examples
+        // Conditions.run();   // conditions examples
+        ScannerInput.run();    // Scanner input examples
+
     }
 }
