@@ -15,10 +15,11 @@ public class Main {
      */
     public static void main(String[] args){
     // Here we are calling a function (run) inside another class (Prints) from within the main method
-        // Prints.run();       // print examples
-        // Variables.run();    // variables examples
-        // Conditions.run();   // conditions examples
-        ScannerInput.run();    // Scanner input examples
+        // Prints.run();          // print examples
+        // Variables.run();       // variables examples
+        // Conditions.run();      // conditions examples
+        // ScannerInput.run();    // Scanner input examples
+        Loops.run();              // Loops  examples
 
     }
 }
