@@ -16,7 +16,7 @@ public class Main {
     public static void main(String[] args){
 
         // Here we are calling a function (run) inside another class (Prints) from within the main method
-        Prints.run();
-
+//        Prints.run();
+        Variables.run();
     }
 }
