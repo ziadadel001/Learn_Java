@@ -24,7 +24,7 @@ public class Main {
         // KeyValues.run();                     // KeyValue examples
         // RandomNum.run();                     // arrays examples
         // MathCalculations.run();              // Math Calculations examples
-           StringsExamples.run();               //  examples
-
+        // StringsExamples.run();               //  examples
+           MethodsExamples.run();               //  examples
     }
 }
