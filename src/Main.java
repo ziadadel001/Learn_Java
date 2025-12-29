@@ -26,7 +26,12 @@ public class Main {
         // MathCalculations.run();              // Math Calculations examples
         // StringsExamples.run();               //  examples
         // MethodsExamples.run();               //  examples
-           TypeCastingExamples.run();           //  examples
-
+        // TypeCastingExamples.run();           //  examples
+        BooleanLogicExamples.run();
+        ConstantsExamples.run();
+        EnumsExamples.run();
+        ErrorHandlingExamples.run();
+        ThisAndConstructorExamples.run();
+        PackagesAndImportsExamples.run();
     }
 }
