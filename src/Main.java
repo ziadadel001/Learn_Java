@@ -25,6 +25,8 @@ public class Main {
         // RandomNum.run();                     // arrays examples
         // MathCalculations.run();              // Math Calculations examples
         // StringsExamples.run();               //  examples
-           MethodsExamples.run();               //  examples
+        // MethodsExamples.run();               //  examples
+           TypeCastingExamples.run();           //  examples
+
     }
 }
